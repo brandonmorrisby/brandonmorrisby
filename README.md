@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brandon Morrisby
+[# 👋 Hi, I'm Brandon Morrisby
 
 🎯 **Cyber Security Specialist | Software Developer | Digital Forensics Enthusiast**
 
@@ -123,3 +123,4 @@ Configuring a self-hosted Plex server for secure media management and remote acc
 
 > _"Security isn’t a product — it’s a process."_  
 > — Bruce Schneier
+](https://brandonmorrisby.github.io/Portfolio/)
