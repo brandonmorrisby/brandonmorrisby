@@ -2,38 +2,50 @@
 
 🎯 **Cyber Security Specialist | Software Developer | Digital Forensics Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonmorrisby-blue?logo=linkedin)](https://linkedin.com/in/brandonmorrisby)
-[![Email](https://img.shields.io/badge/Email-brandonsjmorrisby%40gmail.com-red?logo=gmail)](mailto:brandonsjmorrisby@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonmorrisby-blue?logo=linkedin)](https://linkedin.com/in/brandonmorrisby)  
+[![Email](https://img.shields.io/badge/Email-brandonsjmorrisby%40gmail.com-red?logo=gmail)](mailto:brandonsjmorrisby@gmail.com)  
 ![Location](https://img.shields.io/badge/Location-Australia-lightgrey)
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Cyber Security Specialist** at **Boeing Defence Australia** with a background in **software engineering, cybersecurity, and digital forensics**.  
-My experience spans **risk management, secure software development**, and **policy and accreditation documentation** aligned with **NIST** and **ISM frameworks**.  
+I'm a **Cyber Security Specialist at Boeing Defence Australia**, where I contribute to implementing **security requirements, policies, standards, and accreditation documentation** across complex engineering environments.
 
-I’m currently completing my **Master of Cybersecurity and Forensics** at the **University of the Sunshine Coast**, where I’m deepening my knowledge in **digital investigations, legal frameworks, and ethical cybersecurity practices**.
+My professional experience spans **cybersecurity, digital forensics, risk management, software development, and advanced networking**, supported by my ongoing postgraduate studies in **Cybersecurity and Forensics** at the University of the Sunshine Coast.
+
+I combine **technical capability**, **analytical reasoning**, and **investigative skills** to help strengthen security posture and support compliance in high-assurance environments.
 
 ---
 
 ## 🛠️ Technical Focus Areas
 
-- **Cybersecurity & Risk Management**
-  - NIST & ISM control selection, accreditation documentation, and policy development  
-  - Risk assessments, compliance audits, and access control management  
+### 🔐 Cybersecurity & Risk Management
+- Implementing information security requirements, standards, and procedures  
+- NIST & ISM framework application and accreditation documentation  
+- Monitoring network traffic and event logs for threat identification  
+- Continuous monitoring and assessment of security controls  
+- Vulnerability assessments, audits, and compliance checks  
+- Supporting incident response and post-incident analysis  
+- Developing security policies, reviews, and audit documentation  
 
-- **Digital Forensics & Investigation**
-  - Evidence handling, forensic imaging, and investigation methodologies  
-  - Data protection and legal/ethical compliance  
+### 🧪 Digital Forensics & Investigation
+- Forensic imaging, chain of custody, and evidence preservation  
+- Digital investigation methodologies and examination frameworks  
+- Understanding legal, ethical, and regulatory obligations  
+- Data protection, evidence handling, and investigative reporting  
 
-- **Software Development**
-  - Web & mobile application development using **VB.NET, C#, Vue.js, SQL Server**
-  - Secure coding practices, API development, and Agile methodologies  
+### 🧑‍💻 Software Development
+- VB.NET, C#, Vue.js, SQL Server, Capacitor, PWA  
+- Secure coding practices and structured testing  
+- Web and mobile application development  
+- Agile development, design reviews, and documentation  
 
-- **Networking & Systems**
-  - Network configuration, segmentation, and vulnerability mitigation  
-  - Windows & Linux administration, VLAN and firewall configuration  
+### 🌐 Networking & Systems
+- Network installation, configuration, troubleshooting, and maintenance  
+- VLAN configuration, firewalls, network segmentation  
+- Windows & Linux administration  
+- WAN integration and modern network architectures  
 
 ---
 
@@ -41,34 +53,54 @@ I’m currently completing my **Master of Cybersecurity and Forensics** at the *
 
 ### 🔐 Cyber Security Specialist  
 **Boeing Defence Australia** | *Jan 2025 – Present*  
-- Utilising **NIST** and **ISM** frameworks to develop tailored accreditation documentation for complex engineering environments.  
-- Performing **risk assessments**, **policy reviews**, and **control selection** for security accreditation.  
-- Developing and reviewing **cybersecurity policy and documentation** to support compliance and assurance programs.  
+- Implementing information security policies, requirements, and procedures  
+- Using **NIST** and **ISM** frameworks to develop and review accreditation documentation  
+- Monitoring network traffic and logs to identify vulnerabilities and threats  
+- Supporting continuous monitoring and effectiveness of security controls  
+- Participating in vulnerability assessments and audits  
+- Assisting incident response and post-incident activities  
+- Helping maintain security accreditation documentation and supporting security reviews  
 
 ### 💻 Graduate Programmer Analyst  
 **Boeing Australia Holdings** | *Jul 2023 – Jan 2025*  
-- Supported end users and software applications including **Teamcenter**, **Teamwork Cloud**, and **IBM DOORS**.  
-- Reviewed and created **access control policies**, conducted **risk profiling**, and audited user lists.  
-- Designed **ticketing dashboards** to improve workflow insights and managed **Active Directory groups**.  
+- Supported enterprise applications (Teamcenter, Teamwork Cloud, IBM DOORS)  
+- Designed/modified access control policies and performed compliance auditing  
+- Conducted user list reviews and risk profiling  
+- Managed Active Directory groups and contributed to team documentation  
+- Created dashboards to improve insights into application workloads  
 
 ### 🧑‍💻 Undergraduate Software Developer  
 **Tyeware** | *Jul 2020 – Jul 2023*  
-- Developed and maintained **smart water**, **asset management**, and **IoT-based systems** using VB.NET, C#, Vue.js, and SQL.  
-- Conducted code reviews, testing, and documentation to meet internal quality standards.  
-- Practiced **Agile project management** and contributed to strategic development goals.  
+- Worked on products including Aqualus Water, Aqualus Vision, SAM2, and smart irrigation systems  
+- Developed applications using VB.NET, C#, Vue.js, SQL Server, PWA, and Capacitor  
+- Conducted structured testing, QA reviews, and documentation  
+- Contributed to Agile projects, project documentation, and team knowledge sharing  
 
 ---
 
 ## 🎓 Education
 
-**Master of Cybersecurity and Forensics** | *University of the Sunshine Coast* (2024 – Current)  
-Focus: Cybersecurity frameworks, digital investigations, forensics, law & ethics  
+### **Master of Cybersecurity and Forensics**  
+*University of the Sunshine Coast* | *2024 – Current*  
+- Cyber security fundamentals: networking, cloud/device security, cryptography, blockchain  
+- Digital investigations and forensic examination methodologies  
+- Legal/ethical aspects of cyber investigations & evidence handling  
+- Leadership, analytical reasoning, and advanced problem-solving  
+- Industry-based project work and team collaboration  
 
-**Bachelor of Information Technology** | *University of Southern Queensland* (2019 – 2023)  
+### **Bachelor of Information Technology**  
+*University of Southern Queensland* | *2019 – 2023*  
 Majors: **Applied Computer Science** and **Networking & Security**  
+- Programming fundamentals, algorithms, data structures  
+- Operating systems, database systems, server technologies  
+- Networking, security, WAN technologies, Linux & Windows admin  
+- IT professionalism, communication, project management  
 
-**Certificate III in Information, Digital Media & Technology** | *TAFE Queensland* (2018)  
-Focus: Hardware, Networking, Software, and IT Systems Support  
+### **Certificate III in Information, Digital Media & Technology**  
+*TAFE Queensland* | *2018*  
+- Hardware installation, diagnostics, OS optimisation  
+- SOHO network installation and security  
+- Client support, equipment maintenance, and software configuration  
 
 ---
 
@@ -82,45 +114,44 @@ Focus: Hardware, Networking, Software, and IT Systems Support
 
 ## 🧪 Projects
 
-### 🔒 **Home Network Security**
-Designed and configured a secure home network with VLAN segmentation, firewall rules, and Pi-hole ad blocking.  
-> Technologies: RouterOS, Pi-hole, VLANs, Firewall, DNS Filtering  
+### 🔒 Home Network Security
+- Designed a secure home network with router + WAP  
+- Implemented VLANs, firewall rules, and DNS filtering  
+- Configured network-wide ad-blocking  
 
-### 💾 **PiHole (In Progress)**
-Deploying Pi-hole as a network-wide ad and tracker blocker with DNS-over-HTTPS.  
+### 💾 Pi-hole Deployment *(In Progress)*
+Network-wide ad and tracker blocking with secure DNS configuration.
 
-### 🎬 **Home Media Server (In Progress)**
-Configuring a self-hosted Plex server for secure media management and remote access.  
+### 🎬 Home Media Server *(In Progress)*
+Building a private media ecosystem with secure remote access.
 
 ---
 
 ## 🧰 Tools & Technologies
 
 | Category | Tools |
-|-----------|--------|
+|---------|-------|
 | **Cybersecurity** | NIST RMF, ISM, Nessus, Wireshark, Autopsy |
 | **Development** | VB.NET, C#, Vue.js, SQL Server, HTML/CSS |
-| **Networking** | Cisco Packet Tracer, RouterOS, pfSense |
+| **Networking** | RouterOS, Cisco Packet Tracer, pfSense |
 | **Version Control** | Git, Bitbucket, SourceTree |
 | **Project Tools** | Jira, Confluence, Azure DevOps |
 
 ---
 
 ## 🌱 Currently Learning
-
-- Threat intelligence and detection  
+- Threat intelligence & detection  
 - Advanced digital forensics (Autopsy, FTK, EnCase)  
-- Network defense automation and incident response scripting  
+- Automation & scripting for incident response  
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 [brandonsjmorrisby@gmail.com](mailto:brandonsjmorrisby@gmail.com)  
-🔗 [linkedin.com/in/brandonmorrisby](https://linkedin.com/in/brandonmorrisby)
+📧 **brandonsjmorrisby@gmail.com**  
+🔗 **linkedin.com/in/brandonmorrisby**
 
 ---
 
 > _"Security isn’t a product — it’s a process."_  
 > — Bruce Schneier
-](https://brandonmorrisby.github.io/Portfolio/)
