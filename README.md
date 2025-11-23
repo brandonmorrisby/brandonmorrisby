@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Brandon Morrisby
+# 👋 Hi, I'm Brandon Morrisby
 
 🎯 **Cyber Security Specialist | Software Developer | Digital Forensics Enthusiast**
 
